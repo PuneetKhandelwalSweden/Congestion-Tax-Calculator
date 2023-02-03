@@ -1,2 +1,3 @@
-1. I have added the fee of multiple days in the total which was not done earlier. Assuming its a bug.
-2. Will externalize the code in second phase of code development.
+for more dynamic configuration I like to use some DB with JPA implementation in the code.
+Bit more refactor and try complicated scenarios . 
+Complexity can be improved as well with better use of Dates library.
