@@ -37,7 +37,7 @@ REST Endpoint:
     		"timestamp": 1637177384362
        }
 
-** for now Other cities have not been onboarded **
+**For now Other cities have not been onboarded**
 
     {
         "city": "Stockholm" ,
